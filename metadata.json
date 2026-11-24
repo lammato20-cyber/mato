@@ -1,0 +1,6 @@
+{
+  "name": "PulseDeck",
+  "description": "All-in-one Android entertainment hub to play music, stream and watch videos, play built-in arcade games, and stream online YouTube videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

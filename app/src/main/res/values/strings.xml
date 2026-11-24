@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PulseDeck</string>
+    <string name="tab_music">Music</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_youtube">YouTube</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_games">Games</string>
+    <string name="tab_studio">AI Studio</string>
+    <string name="cd_album_art">Album artwork</string>
+    <string name="cd_play">Play</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_next">Next track</string>
+    <string name="cd_previous">Previous track</string>
+    <string name="cd_shuffle">Toggle shuffle</string>
+    <string name="cd_repeat">Toggle repeat</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_fullscreen">Toggle fullscreen</string>
+</resources>
